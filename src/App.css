@@ -12,7 +12,7 @@ body {
 }
 
 img {
-    max-width: 60rem;
+    width: 40rem;
     align-items: center;
 }
 
@@ -21,7 +21,7 @@ img {
 }
 
 .countryWrapper {
-    margin-left: 1rem;
+    margin-left: 4rem;
     margin-bottom: 1rem;
 }
 
@@ -49,7 +49,7 @@ img+p {
 }
 
 .flag {
-    height: 1.5rem;
+    width: 1.5rem;
 }
 
 .blue {
